@@ -10,6 +10,10 @@ This monitoring tool uses the SnarkOS REST API and push prometheus metrics.
 - validator_total_stake
 - validator_is_open
 
+## Usecase
+This tool works best when both the local endpoint and public endpoint are given.  
+Example: alert based on the difference between the two heights, or when the total_stake does not increase.    
+
 ## Installation & Usage
 
 ### Binary
