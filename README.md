@@ -23,13 +23,12 @@ docker-compose up -d
 ```
 
 ## What's included  
+The SS attached were created during the time the node was in --client mode.  
+Will Update the SS once our node is running with the --validator flag.  
 
-The below Aleo Logs Metrics SS was created using the Aleo Logs (Mock) Dashboard.  
+The Aleo Logs Metrics were created using the Aleo Logs (Mock) Dashboard.  
 More info about the Aleo Logs (Mock) [here](etc-promtail/README.md) 
 
-Same for the Aleo Val Metrics, this was taken on a node running in --client mode.  
-
-(Will Update the SS asap) 
 - Aleo Logs Metrics<img width="1496" alt="Aleo_Logs_Mock" src="https://github.com/HikaruG/aleo-simple-monitoring/assets/43375172/39f2b234-42e7-4782-a637-f5b94453875e">
 
 - Aleo Val Metrics<img width="1492" alt="Aleo_Val_Metrics" src="https://github.com/HikaruG/aleo-simple-monitoring/assets/43375172/a479351f-0501-47be-b93c-a21c27e3e8e1">
